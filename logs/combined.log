@@ -1,0 +1,10 @@
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 15 * 5","service":"calculator-microservice"}
+{"level":"warn","message":"Route not found","path":"/division","service":"calculator-microservice"}
+{"level":"warn","message":"Route not found","path":"/division","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 15 - 5","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 100 + 200","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / 5","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / 4","service":"calculator-microservice"}
+{"level":"error","message":"Attempted to divide by zero","service":"calculator-microservice"}
